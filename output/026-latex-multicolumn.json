@@ -1,0 +1,74 @@
+{
+  "metadata": {
+    "input_documents": [
+      "026-latex-multicolumn.pdf"
+    ],
+    "persona": "UX Designer working on enterprise dashboards",
+    "job_to_be_done": "Look for case studies or examples of UI design systems.",
+    "processing_timestamp": "2025-07-26T12:31:30.560024Z"
+  },
+  "extracted_sections": [
+    {
+      "document": "026-latex-multicolumn.pdf",
+      "page_number": 3,
+      "section_title": "Austria 8.9 83,879 Vienna German",
+      "importance_rank": 1
+    },
+    {
+      "document": "026-latex-multicolumn.pdf",
+      "page_number": 3,
+      "section_title": "Belgium 11.5 30,689 Brussels Dutch, French, German",
+      "importance_rank": 2
+    },
+    {
+      "document": "026-latex-multicolumn.pdf",
+      "page_number": 3,
+      "section_title": "Czech Republic 10.7 78,866 Prague Czech",
+      "importance_rank": 3
+    },
+    {
+      "document": "026-latex-multicolumn.pdf",
+      "page_number": 3,
+      "section_title": "Denmark 5.8 42,951 Copenhagen Danish",
+      "importance_rank": 4
+    },
+    {
+      "document": "026-latex-multicolumn.pdf",
+      "page_number": 3,
+      "section_title": "Finland 5.5 338,424 Helsinki Finnish, Swedish",
+      "importance_rank": 5
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "026-latex-multicolumn.pdf",
+      "page": 3,
+      "section_title": "Austria 8.9 83,879 Vienna German",
+      "refined_text": "Table 1: EU Countries Information\nCountry Population (millions) Area (km2) Capital O\u000ecial Language\nAustria 8.9 83,879 Vienna German\nBelgium 11.5 30,689 Brussels Dutch, French, German\nCzech Republic 10.7 78,866 Prague Czech\nDenmark 5.8 42,951 Copenhag"
+    },
+    {
+      "document": "026-latex-multicolumn.pdf",
+      "page": 3,
+      "section_title": "Belgium 11.5 30,689 Brussels Dutch, French, German",
+      "refined_text": "Table 1: EU Countries Information\nCountry Population (millions) Area (km2) Capital O\u000ecial Language\nAustria 8.9 83,879 Vienna German\nBelgium 11.5 30,689 Brussels Dutch, French, German\nCzech Republic 10.7 78,866 Prague Czech\nDenmark 5.8 42,951 Copenhag"
+    },
+    {
+      "document": "026-latex-multicolumn.pdf",
+      "page": 3,
+      "section_title": "Czech Republic 10.7 78,866 Prague Czech",
+      "refined_text": "Table 1: EU Countries Information\nCountry Population (millions) Area (km2) Capital O\u000ecial Language\nAustria 8.9 83,879 Vienna German\nBelgium 11.5 30,689 Brussels Dutch, French, German\nCzech Republic 10.7 78,866 Prague Czech\nDenmark 5.8 42,951 Copenhag"
+    },
+    {
+      "document": "026-latex-multicolumn.pdf",
+      "page": 3,
+      "section_title": "Denmark 5.8 42,951 Copenhagen Danish",
+      "refined_text": "Table 1: EU Countries Information\nCountry Population (millions) Area (km2) Capital O\u000ecial Language\nAustria 8.9 83,879 Vienna German\nBelgium 11.5 30,689 Brussels Dutch, French, German\nCzech Republic 10.7 78,866 Prague Czech\nDenmark 5.8 42,951 Copenhag"
+    },
+    {
+      "document": "026-latex-multicolumn.pdf",
+      "page": 3,
+      "section_title": "Finland 5.5 338,424 Helsinki Finnish, Swedish",
+      "refined_text": "Table 1: EU Countries Information\nCountry Population (millions) Area (km2) Capital O\u000ecial Language\nAustria 8.9 83,879 Vienna German\nBelgium 11.5 30,689 Brussels Dutch, French, German\nCzech Republic 10.7 78,866 Prague Czech\nDenmark 5.8 42,951 Copenhag"
+    }
+  ]
+}

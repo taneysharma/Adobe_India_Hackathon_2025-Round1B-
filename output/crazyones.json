@@ -1,0 +1,12 @@
+{
+  "metadata": {
+    "input_documents": [
+      "crazyones.pdf"
+    ],
+    "persona": "UX Designer working on enterprise dashboards",
+    "job_to_be_done": "Look for case studies or examples of UI design systems.",
+    "processing_timestamp": "2025-07-26T12:31:30.635997Z"
+  },
+  "extracted_sections": [],
+  "subsection_analysis": []
+}
